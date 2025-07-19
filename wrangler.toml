@@ -1,0 +1,8 @@
+name = "vibrate-api"
+compatibility_date = "2024-01-01"
+main = "src/worker.js"
+
+[[d1_databases]]
+binding = "DB"  # اسمی که در کدتان استفاده می‌کنید (مثلاً env.DB)
+database_name = "vibrate-db"
+database_id = "2961b71d-ed3c-44cd-b2e3-856fe3cb1488"
